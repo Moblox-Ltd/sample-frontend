@@ -1,0 +1,8 @@
+query {language_by_id (id:"L3") {
+  id
+  name
+  paradigms { name}
+ projects {name}
+  type_system {name}
+  }
+  }
